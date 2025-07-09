@@ -1,4 +1,4 @@
-# Task manager Web application
+# 📅Event manager Web application
 
 A task manager app inspired by JIRA allows you to manage your daily tasks.
 # Setting up development environment
