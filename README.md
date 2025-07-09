@@ -12,10 +12,10 @@ A task management web app inspired by **JIRA**, designed to help you organize an
           - ```/frontend/task-manager-app/```
           - ```/backend```
         3. Run the following command in each directory:
-          <pre> ```npm install``` </pre>
+          <pre> npm install </pre>
   3. Running the Application
       - Once the dependencies are installed, start both the frontend and backend servers by running:
-        <pre> ```npm start``` </pre>
+        <pre> npm start </pre>
         in each respective directory.
 # ✨ Features
 ### ✅ Multiple Task Views
