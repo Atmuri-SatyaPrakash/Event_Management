@@ -52,24 +52,26 @@ A task management web app inspired by **JIRA**, designed to help you organize an
   - Click on drop down icon to view the information u entred about the task:
     
   <img src = https://user-images.githubusercontent.com/97839369/221429117-51c56178-4b38-4d4b-b1ab-5c1ed0931f84.png >
-3. Board view:
+  
+#### 3. Board view:
+
+  - View tasks in a Kanban board style layout.
 <img src= https://user-images.githubusercontent.com/97839369/221428865-d764280c-b844-4c6a-8abb-b89102efff0b.png >
 
-  - You can drag the text to change it state
+  - Drag tasks between columns to update their status.
 <img src = https://user-images.githubusercontent.com/97839369/221429038-ccfaf181-0068-49c2-9deb-7de97034bf0b.png >
   
-  - Click on drop down icon to view the information u entred about the task:
+  - Click the dropdown icon to view task details.
  
  <img src = https://user-images.githubusercontent.com/97839369/221429156-ebac37be-ed09-4f0d-a36d-144da848ffe9.png>
 
-### 2. Notifications
-<p> You get notified for every action you do </p>
+# 🔔 Real-Time Notifications
+ - Get instant feedback for every task action you perform.
  <img src = https://user-images.githubusercontent.com/97839369/221429251-af13e90e-e49b-497c-8b51-c8447ddd841a.png> 
  <img src = https://user-images.githubusercontent.com/97839369/221429277-e72093ca-3064-4c08-a35d-c23728c4b8d5.png >
 
-### 3. Responsive
-the app is fully responsive:
-
+# 📱 Fully Responsive
+  - The app is optimized for all screen sizes and devices.
 <img src = https://user-images.githubusercontent.com/97839369/221429396-f643edef-10f3-471b-99d3-1dd4689408d4.png >
 
           
