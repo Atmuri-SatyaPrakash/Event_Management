@@ -31,23 +31,26 @@ A task management web app inspired by **JIRA**, designed to help you organize an
 
 <img src="https://user-images.githubusercontent.com/97839369/221427314-c1c7bfcc-9112-4fc4-8c14-85be8a848a73.png">
 
-2. Calendar view:
-   - You can navigate to see your projects with a custom calendar:
+#### 2. Calendar view:
+   - View your tasks on a calendar.
    
   <img src = https://user-images.githubusercontent.com/97839369/221427778-d465c244-1f30-4f1a-86ff-8741373a05d4.png >
   
-  - the days that have one or more task are highlited:
+  - Dates with tasks are highlighted.
  
   <img src=https://user-images.githubusercontent.com/97839369/221428621-67ad5d24-c7ab-4e46-9344-71276222f6c4.png>
       
-  - the completed tasks have green border:
- <img src = https://user-images.githubusercontent.com/97839369/221428475-40603cc6-8997-41e0-b43e-4a3a59d53bfd.png >
+  - Green-bordered tasks are completed.
+
+    <img src = https://user-images.githubusercontent.com/97839369/221428475-40603cc6-8997-41e0-b43e-4a3a59d53bfd.png >
       
-  - while the uncompleted tasks have red border:
+  - Red-bordered tasks are pending.
+    
    <img src = https://user-images.githubusercontent.com/97839369/221428454-54d3cb70-d66b-4bba-bfde-68e9642955a7.png >
      
 
   - Click on drop down icon to view the information u entred about the task:
+    
   <img src = https://user-images.githubusercontent.com/97839369/221429117-51c56178-4b38-4d4b-b1ab-5c1ed0931f84.png >
 3. Board view:
 <img src= https://user-images.githubusercontent.com/97839369/221428865-d764280c-b844-4c6a-8abb-b89102efff0b.png >
