@@ -1,6 +1,6 @@
 # 📅Event manager Web application
 
-A task manager app inspired by JIRA allows you to manage your daily tasks.
+A task management web app inspired by # JIRA, designed to help you organize and track your daily tasks with multiple views and real-time feedback.
 # Setting up development environment
   1. Prerequisites
       - you need to have [node.js](https://nodejs.org/en/) installed in your machine
