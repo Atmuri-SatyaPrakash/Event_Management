@@ -17,7 +17,7 @@ A task management web app inspired by **JIRA**, designed to help you organize an
       - Once the dependencies are installed, start both the frontend and backend servers by running:
         <pre> ```bash npm start ``` </pre>
         in each respective directory.
-#✨ Features
+# ✨ Features
 ### ✅ Multiple Task Views
   
 #### 1. List view:
@@ -25,11 +25,11 @@ A task management web app inspired by **JIRA**, designed to help you organize an
     - Drag and drop tasks to change their status.
     - Use the checkbox to mark tasks as completed.
     
-    <img src="https://user-images.githubusercontent.com/97839369/221426631-7d4986f0-b782-4f8c-8490-1d528da10d7c.png">
+      <img src="https://user-images.githubusercontent.com/97839369/221426631-7d4986f0-b782-4f8c-8490-1d528da10d7c.png">
   
     - Click the dropdown icon to see task details.
     
-    <img src = https://user-images.githubusercontent.com/97839369/221427314-c1c7bfcc-9112-4fc4-8c14-85be8a848a73.png >
+      <img src = https://user-images.githubusercontent.com/97839369/221427314-c1c7bfcc-9112-4fc4-8c14-85be8a848a73.png >
 
 2. Calendar view:
    - You can navigate to see your projects with a custom calendar:
